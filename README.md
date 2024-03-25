@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Jyoti</h1>
-<p>UI Designer and Frontend Developer</p>
+<h3>UI Designer and Frontend Developer</h3>
+<p>
+Making the transition from Frontend Developer to UI Designer, I bring over two years of expertise in crafting seamless web experiences. Proficient in Vue.js, HTML, CSS, and JavaScript, I’ve honed my skills in creating intuitive user interfaces that prioritize functionality and aesthetics. Embracing the principles of agile development, I thrive in collaborative environments, ensuring projects meet both client expectations and industry standards. With a passion for continuous learning, I stay abreast of design trends and tools, enhancing my ability to create visually compelling designs that resonate with users. As I embark on this new journey as a UI Designer, I’m excited to leverage my technical background and creativity to bring innovative design solutions to the forefront, elevating digital experiences and driving user engagement.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
